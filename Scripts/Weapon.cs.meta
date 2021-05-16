@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: cad2986e9399a3044ac3f5933eafb6a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shotPoint: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - projectileUpMed: {instanceID: 0}
+  - projectileDownMed: {instanceID: 0}
+  - projectileUpSmall: {instanceID: 0}
+  - projectileDownSmall: {instanceID: 0}
+  - projectileLarge: {instanceID: 0}
+  - boomerang: {instanceID: 0}
+  - largeBoomerang: {instanceID: 0}
+  - meleeProjectile: {instanceID: 0}
+  - shockwaveProjectile: {instanceID: 0}
+  - voltProjectile: {instanceID: 0}
+  - attackPos: {instanceID: 0}
+  - gunSoundSource: {instanceID: 0}
+  - gunSoundNormal: {instanceID: 0}
+  - gunSoundPowered: {instanceID: 0}
+  - meleeNormal: {instanceID: 0}
+  - ammoBar: {instanceID: 0}
+  - WeaponIcon: {instanceID: 0}
+  - gunSprite: {fileID: 21300000, guid: 3a46e2997c91cc04a8a73996469e5c9d, type: 3}
+  - gunPoweredSprite: {fileID: 21300004, guid: 3a46e2997c91cc04a8a73996469e5c9d, type: 3}
+  - boomerangSprite: {fileID: 21300002, guid: 3a46e2997c91cc04a8a73996469e5c9d, type: 3}
+  - boomerangPoweredSprite: {fileID: 21300006, guid: 3a46e2997c91cc04a8a73996469e5c9d,
+      type: 3}
+  - yoYoSprite: {fileID: 21300008, guid: 3a46e2997c91cc04a8a73996469e5c9d, type: 3}
+  - yoYoPoweredSprite: {fileID: 21300012, guid: 3a46e2997c91cc04a8a73996469e5c9d,
+      type: 3}
+  - volticPostSprite: {fileID: 21300010, guid: 3a46e2997c91cc04a8a73996469e5c9d, type: 3}
+  - volticPostPoweredSprite: {fileID: 21300014, guid: 3a46e2997c91cc04a8a73996469e5c9d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
