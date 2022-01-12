@@ -6,6 +6,7 @@ public class PlayerStick : MonoBehaviour {
 
     public GameObject player;
 
+    //makes player move with cart
     private void OnTriggerEnter(Collider other) {
         if(other.gameObject == player) {
             player.transform.parent = transform;
